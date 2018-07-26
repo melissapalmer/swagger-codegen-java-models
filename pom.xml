@@ -77,7 +77,7 @@
                             <language>java</language>
                             <output>${project.basedir}</output>
 
-                            <apiPackage>zcom.example.demo.petstore.api</apiPackage>
+                            <apiPackage>com.example.demo.petstore.api</apiPackage>
                             <modelPackage>com.example.demo.petstore.api.model</modelPackage>
                             <generateApis>false</generateApis>
                             <generateApiTests>false</generateApiTests>
