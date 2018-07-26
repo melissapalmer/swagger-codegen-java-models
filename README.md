@@ -1,5 +1,5 @@
 Basic example showing how to use `swagger-codegen-maven-plugin` to generate Java Model classes from swagger.json file
-For post at: https://melissapalmer.github.io/documentation/2018/07/27/swagger-codegen-2generatejavamodels.html
+For post at: https://melissapalmer.github.io/documentation/2018/07/27/swagger-codegen-2-java-with-maven.html
 
 
 To build the code
